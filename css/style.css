@@ -55,7 +55,7 @@ nav .navbar-extra a::after {
 
 .hero {
   display: block;
-  padding: 5.5rem;
+  padding: 4.5rem;
   height: 100vh;
   text-align: center;
   align-items: center;
@@ -63,8 +63,8 @@ nav .navbar-extra a::after {
 }
 
 .hero .logo h1 {
-  font-size: 8.3rem;
-  line-height: 1em;
+  font-size: 6.5rem;
+  line-height: 1.5em;
 }
 
 .hero .logo p {
