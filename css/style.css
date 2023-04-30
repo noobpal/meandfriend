@@ -55,10 +55,10 @@ nav .navbar-extra a::after {
 
 .hero {
   display: block;
-  padding: 5.5rem 7%;
-  max-width: 100vh;
-  ailgn-items: center;
+  padding: 5.5rem;
+  height: 100vh;
   text-align: center;
+  align-items: center;
   color: #fff;
 }
 
