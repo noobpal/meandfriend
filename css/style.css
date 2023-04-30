@@ -57,6 +57,7 @@ nav .navbar-extra a::after {
   display: block;
   padding: 5.5rem 7%;
   max-width: 100vh;
+  ailgn-items: center;
   text-align: center;
   color: #fff;
 }
